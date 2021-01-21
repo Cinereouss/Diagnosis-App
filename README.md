@@ -1,2 +1,2 @@
-# diagnosis_app
+# Diagnosis App
 Máy học chuẩn đoán bệnh
